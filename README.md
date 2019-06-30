@@ -1,0 +1,2 @@
+# apma-directed-reading
+My work for the Applied Math Directed Reading Program at Brown. I compared a the effectiveness of a neural network to the effectiveness of a random forest in predicting fires, based on the CFD project I worked on earlier (files all taken from the CFD repository). There was no significant advantage in using a neural network, and if the correct parameters were not used there was often a disadvantage.
